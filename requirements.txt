@@ -1,0 +1,11 @@
+os
+datetime
+csv
+locale
+sqlite3
+cs50
+flask
+flask_session
+email_validator
+flask_bcrypt
+flask_mail
